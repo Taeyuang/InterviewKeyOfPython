@@ -1,6 +1,6 @@
 ## 这个专题是关于面试的关键，包括面试前的准备、面试真题以及牛人们的面试经验等等，在看这个专题之前，请先看看这里的[Python最佳实践](https://github.com/PythonScientists/Python-Guide-CN)
 
-# 最近在看github上面的高分面试经验。
+# 最近在看github上面的高分面试经验
 
 # 总结的python最佳项目实践
 
